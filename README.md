@@ -1,3 +1,0 @@
-# SSPY-GIE
-
-cd SSPY-GIETest2
