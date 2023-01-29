@@ -1,3 +1,3 @@
 # SSPY-GIE
 
-cd SSPY-GIETest1
+cd SSPY-GIETest2
